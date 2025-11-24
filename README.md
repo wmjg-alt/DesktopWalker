@@ -58,7 +58,7 @@ This project uses **Visual Studio Code** with the **MSVC (Microsoft Visual C++)*
 3.  Press **Ctrl + Shift + B** to build.
 4.  Press **F5** to run.
 
-#### ** a .exe is generated **
+#### **.exe is generated**
 
 ### Utilities
 Included is `pixel_converter.py`, a simple helper script. 
@@ -73,3 +73,4 @@ Included is `pixel_converter.py`, a simple helper script.
 - detect other movie windows like VLC etc
 - jump via character's dynamic height
 - detect animation length based on assets folder contents
+- config outside so rebuild not required
