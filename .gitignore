@@ -1,0 +1,24 @@
+# --- Build Artifacts ---
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.suo
+*.sln
+*.sdf
+*.tlog
+*.log
+*.idb
+
+# Ignore .vscode folder
+.vscode/
+
+# --- Assets ---
+# Ignore the specific PNGs (clean start))
+assets/*.png
+!assets/.gitkeep
+
+# --- OS Junk ---
+Thumbs.db
+Desktop.ini
+.DS_Store
